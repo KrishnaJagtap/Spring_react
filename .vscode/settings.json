@@ -1,0 +1,6 @@
+{
+    "testing.autoRun.delay": 10000,
+    "json.maxItemsComputed": 50000,
+    "typescript.tsserver.maxTsServerMemory": 5000,
+    "terminal.integrated.allowMnemonics": true
+}
